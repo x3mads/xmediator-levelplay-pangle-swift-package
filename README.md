@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayPangleAdapter` product instead of LevelPlay's `PangleAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.32.0` of this package uses LevelPlay adapter `5.32.0`.
+`5.33.0` of this package uses LevelPlay adapter `5.33.0`.
 
 ## License
 

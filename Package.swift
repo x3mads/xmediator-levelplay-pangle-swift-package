@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "LevelPlayPangleAdapter", targets: ["LevelPlayPangleAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Pangle-Adapter-Swift-Package.git", exact: "5.35.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Pangle-Adapter-Swift-Package.git", exact: "5.36.0"),
     ],
     targets: [
         .target(
